@@ -1,0 +1,22 @@
+my_project/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── setup.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   ├── utils.py
+│   └── modules/
+│       ├── __init__.py
+│       ├── module1.py
+│       └── module2.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_main.py
+    ├── test_module1.py
+    └── test_module2.py
